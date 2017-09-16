@@ -1,0 +1,6 @@
+E:\Workspace\AI\SliddingPuzzle\bin\Debug\SliddingPuzzle.exe.config
+E:\Workspace\AI\SliddingPuzzle\bin\Debug\SliddingPuzzle.exe
+E:\Workspace\AI\SliddingPuzzle\bin\Debug\SliddingPuzzle.pdb
+E:\Workspace\AI\SliddingPuzzle\obj\Debug\SliddingPuzzle.exe
+E:\Workspace\AI\SliddingPuzzle\obj\Debug\SliddingPuzzle.pdb
+E:\Workspace\AI\SliddingPuzzle\obj\Debug\SliddingPuzzle.csprojResolveAssemblyReference.cache
